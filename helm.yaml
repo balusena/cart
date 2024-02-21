@@ -2,3 +2,4 @@ image:
   repository: 828448425071.dkr.ecr.us-east-1.amazonaws.com/cart
 
 port: 8080
+component: cart
