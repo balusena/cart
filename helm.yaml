@@ -9,4 +9,5 @@ serviceAccount:
   annotations:
     eks.amazonaws.com/role-arn: arn:aws:iam::828448425071:role/eks-prod-ssm-pm-role
 
-PARAMETERS: "AMQP_USER,roboshop.prod.rabbitmq.amqp_user AMQP_PASS,roboshop.prod.rabbitmq.amqp_pass"
+PARAMETERS: "REDIS_HOST,roboshop.prod.cart.redis_host CATALOGUE_HOST,roboshop.prod.cart.catalogue_host CATALOGUE_PORT,roboshop.prod.cart.catalogue_port"
+
