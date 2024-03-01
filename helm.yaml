@@ -11,4 +11,4 @@ serviceAccount:
 
 PARAMETERS: "AMQP_USER,roboshop.prod.rabbitmq.amqp_user AMQP_PASS,roboshop.prod.rabbitmq.amqp_pass"
 
-`#PARAMETERS: "REDIS_HOST,roboshop.prod.cart.redis_host CATALOGUE_HOST,roboshop.prod.cart.catalogue_host CATALOGUE_PORT,roboshop.prod.cart.catalogue_port"
+#PARAMETERS: "REDIS_HOST,roboshop.prod.cart.redis_host CATALOGUE_HOST,roboshop.prod.cart.catalogue_host CATALOGUE_PORT,roboshop.prod.cart.catalogue_port"
