@@ -11,3 +11,4 @@ serviceAccount:
 
 PARAMETERS: "REDIS_HOST,roboshop.prod.cart.redis_host CATALOGUE_HOST,roboshop.prod.cart.catalogue_host CATALOGUE_PORT,roboshop.prod.cart.catalogue_port"
 
+
